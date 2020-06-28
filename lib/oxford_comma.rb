@@ -5,4 +5,4 @@ def oxford_comma(array)
 end
 
 array_two = ["kiwi", "durian"]
-array_two.join ("and")
+array_two.join("and")
